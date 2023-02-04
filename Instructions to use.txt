@@ -1,0 +1,10 @@
+Hello there! 
+Steps for the workflow: 
+1. Open ETABS2019 (or higher), complete the design work, get the reinforcement values and select the beams for which you want to generate cross sections. 
+2. Open excel file named 'Beam data', go to grid and click generate grid button. There you'll see the unique names of beams that you've selected, 
+it helps to check whether the unique names are as per the etabs or not. 
+3. Open rhino file 'Rhino Source file' and then grasshopper from it 'Grasshopper main'. ( The rhino file consists some layers that are used in the beam details)
+4. The beam details are generated as per the sheet serial no. in the excel file. 
+
+Thank you. 
+If you have any queries or you wish to collaborate pleae dm - linked in - https://www.linkedin.com/in/nishan-thapa-b0953362/ 
